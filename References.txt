@@ -1,0 +1,8 @@
+images and objects used from
+https://free3d.com/3d-model/long-fin-white-cloud-v1--576023.html
+https://www.pinterest.com/pin/441352832202302935/, https://free3d.com/3d-model/aquarium-skull-v1--509330.html, https://free3d.com/3d-model/fish-v1--996288.html, http://www.textures4photoshop.com/tex/stone-and-rock/gravel-texture-seamless-for-photoshop.aspx, https://opengameart.org/content/indoors-skyboxes, https://free3d.com/3d-model/aquarium-deep-sea-diver-v1--436500.html
+https://free3d.com/3d-model/rock-86533.html
+https://free3d.com/3d-model/aquarium-log-v1--83777.html
+https://free3d.com/3d-model/rubber-duck-v1--250409.html
+https://free3d.com/3d-model/-side-table-v1--419350.html
+//some code modified from https://stackoverflow.com/questions/26100481/texture-wrapping-is-not-repeating-as-it-should-be
